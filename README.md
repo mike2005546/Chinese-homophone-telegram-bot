@@ -4,6 +4,7 @@ Simplified Chinese is not suppported.
 
 # Installation
 Install python-telegram-bot.
+
 You can install it by enter the command `pip install python-telegram-bot --upgrade`in CMD.
 
 # Run
