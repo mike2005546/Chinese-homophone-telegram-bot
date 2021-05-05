@@ -1,6 +1,6 @@
 # Chinese-homophone-telegram-bot
 This is a telegram bot for searching homophone in traditional Chinese and traditional Chinese ONLY.
-Simplified Chinese is not suppported.
+Simplified Chinese is not suppported. https://t.me/test546_bot
 
 # Installation
 Install python-telegram-bot.
