@@ -75,7 +75,7 @@ def reply(update: Update, context: CallbackContext):
     
 def main():
 
-    updater = Updater('642941204:AAFYJi5AvqYMwJmaf-OW2c6otEEVSU8Sudg')
+    updater = Updater('token here')
 
     updater.dispatcher.add_handler(CommandHandler('start', start))
     updater.dispatcher.add_handler(MessageHandler(Filters.text, reply))
